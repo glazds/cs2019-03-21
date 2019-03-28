@@ -1,4 +1,4 @@
-package by.it.glazds1.lesson02;
+package by.it.glaz.lesson02;
 /*
         Уберите комментарии с части кода, чтобы на экран вывелось сообщение «C Новым Годом».
 
