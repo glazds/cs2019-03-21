@@ -1,4 +1,4 @@
-package by.it.glazds1.lesson02;
+package by.it.glaz.lesson02;
 
 import org.junit.Test;
 
